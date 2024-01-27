@@ -2,13 +2,13 @@
 
 
 module mux_2to1 (
-    input wire a,       // Input signal 0
-    input wire b,       // Input signal 1
-    input wire select,  // Control signal to select between inputs
+    input wire a,      
+    input wire b,       
+    input wire select,  // Control signal 
     output wire out     // Output signal
 );
 
-    assign out = (select == 1'b0) ? a : b;  // Conditional assignment based on the select signal
+    assign out = (select == 1'b0) ? a : b;  
 
 endmodule
 

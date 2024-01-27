@@ -1,1 +1,0 @@
-nlog2(n) multiplexers are required to Rotate right
