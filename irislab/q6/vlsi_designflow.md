@@ -1,4 +1,4 @@
-Sure, here's a brief overview of the VLSI (Very Large Scale Integration) design flow:
+
 
 1. **Specification:**
    -  specifications and requirements for the integrated circuit (IC), are decided, like deciding the purpose for the chip/
